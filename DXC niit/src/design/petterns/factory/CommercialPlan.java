@@ -1,0 +1,8 @@
+package design.petterns.factory;
+
+public class CommercialPlan extends Plan {
+	public void getRate(){   
+        rate=7.50;  
+   }  
+
+}
